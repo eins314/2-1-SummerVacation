@@ -16,3 +16,4 @@ for(let i of Ranking){
 for(let i in Ranking){              //배열에 사용하지 않도록 할 것.
     console.log(Ranking[i]);
 }
+
